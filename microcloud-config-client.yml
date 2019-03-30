@@ -16,7 +16,7 @@ eureka:
     service-url:
       defaultZone: http://admin:enjoy@localhost:7301/eureka
 info:
-  app.name: microcloud-provider-product-clientdddd
+  app.name: microcloud-provider-product-clientdddd-fff
   company.name: magic
   build.artifactId: $project.artifactId$
   build.modelVersion: $project.modelVersion$
